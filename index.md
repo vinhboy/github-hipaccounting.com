@@ -2,4 +2,6 @@
 
 Free online accounting software.
 
-[Open Appliation](https://app.hipaccounting.com/)
+[Create an account](https://app.hipaccounting.com/users/sign_up)
+
+[Login](https://app.hipaccounting.com/)

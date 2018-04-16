@@ -2,4 +2,4 @@
 
 Free online accounting software.
 
-<a href="https://app.hipaccounting.com/" class="btn">Open Appliation</a>
+[Open Appliation](https://app.hipaccounting.com/)
